@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lib_tonemapping", "lib_tonemapping\lib_tonemapping.vcxproj", "{D28BE8E6-5C65-4A7E-8959-A068B44BDD8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28BE8E6-5C65-4A7E-8959-A068B44BDD8F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D28BE8E6-5C65-4A7E-8959-A068B44BDD8F}.Debug|Win32.Build.0 = Debug|Win32
+		{D28BE8E6-5C65-4A7E-8959-A068B44BDD8F}.Release|Win32.ActiveCfg = Release|Win32
+		{D28BE8E6-5C65-4A7E-8959-A068B44BDD8F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
